@@ -19,7 +19,7 @@ nose
 nose-timer==0.7.1
 pathlib2
 pyfakefs
-pylint==1.7.4
+pylint==2.5.0
 python-dateutil==2.6.1  # this is pinned to avoid conflicts between boto3, moto and others
 requests
 Sphinx
