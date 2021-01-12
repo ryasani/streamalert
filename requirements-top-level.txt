@@ -26,3 +26,4 @@ Sphinx
 sphinx-rtd-theme
 ushlex
 yapf
+rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
