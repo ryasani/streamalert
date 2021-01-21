@@ -87,7 +87,7 @@ PyJWT==1.6.4
 pyOpenSSL==18.0.0
 pyparsing==2.2.0
 pytz==2018.5
-PyYAML==4.2b1
+PyYAML==5.4
 requests-toolbelt==0.8.0
 responses==0.9.0
 rsa==3.4.2
